@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acdengineer 
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on react projects
 - 📫 How to reach me, on linkedin=>  www.linkedin.com/in/aman-chandra-dwivedi-60420320a
